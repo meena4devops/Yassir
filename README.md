@@ -1,3 +1,7 @@
+#Please refer to help.md for the amnual
+#edited main.ts file [same as coffee-ordering-platform-stack.ts]
+#testcaes-->packages/iac/__tests__
+
 # Yassir Platform Engineering Take Home Challenge
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YAtechnologies/platform-challenge)
